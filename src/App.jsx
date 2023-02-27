@@ -852,14 +852,7 @@ function App() {
  
 
 <div className="liSection5">
-<div className='Grid2x2'>
-  <div><img src="/img302.jpg" className="imgCub" alt="img"></img></div>
-  <div><img src="/img300.jpg" className="imgCub" alt="img"></img></div>
-  <div><img src="/img301.jpg" className="imgCub" alt="img"></img></div>
-  <div><img src="/img299.jpg" className="imgCub" alt="img"></img></div>
-</div>
-
-<div>
+  <div>
   <table className="table" cellSpacing="20">
   <tbody>
     <tr>
@@ -875,6 +868,15 @@ function App() {
     </tbody>
   </table>
   </div>  
+  
+<div className='Grid2x2'>
+  <div><img src="/img302.jpg" className="imgCub" alt="img"></img></div>
+  <div><img src="/img300.jpg" className="imgCub" alt="img"></img></div>
+  <div><img src="/img301.jpg" className="imgCub" alt="img"></img></div>
+  <div><img src="/img299.jpg" className="imgCub" alt="img"></img></div>
+</div>
+
+
 </div>
 <br/>
 
