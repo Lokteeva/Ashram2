@@ -49,7 +49,7 @@ footer{
   display: grid;
   font-family: Caveat;
   color: white;
-  font-size: 12px;
+  font-size: 20px;
   align-items: center;
 }
 .Podrobnee{
@@ -69,7 +69,7 @@ footer{
   }
 .nav2{
   display: grid;  
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
 }
 .btn1:hover{
